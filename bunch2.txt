@@ -1,1 +1,3 @@
 sdfjnsdkfjns
+clean lines
+another clean line to see what happens to a file in a staging area
